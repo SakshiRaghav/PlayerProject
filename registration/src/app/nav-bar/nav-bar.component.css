@@ -1,0 +1,12 @@
+.navbar-light{
+    background-color:rgba(21, 10, 117, 0.932);
+    
+}
+.a{
+   font-size: large;
+   font-size: bold;
+}
+.collapse navbar-collapse{
+    font-size: bold;
+    text-decoration-color: aliceblue;
+}
